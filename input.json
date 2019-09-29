@@ -1,0 +1,19 @@
+{
+    "rowCount": 6,
+    "columnCount": 3,
+    "gameBoard": [
+    [ "A", "C", "S"],
+    [ "I", "A", "D"],
+    [ "R", "Z", "R" ],
+    [ "C", "R", "E"], 
+    [ "R", "A", "T"],
+    [ "Q", "S", "E"]
+    ],
+
+    "wordList": [
+    "air", "car", "card", "cards",
+    "drag", "drags", "sad", "sadden",
+    "Sin", "snail", "zig", "create"
+    ]
+
+    }
